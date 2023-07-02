@@ -9,7 +9,7 @@ cd my
 
 ls
 
-python Rando-File.py
+python Random-File.py
 
 # TONMOY
 rm -rf my
