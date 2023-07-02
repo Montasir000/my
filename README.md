@@ -9,4 +9,4 @@ cd my
 
 ls
 
-python Fb-Clone.py
+python fb-clone.py
