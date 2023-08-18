@@ -11,4 +11,7 @@ cd my
 
 ls
 
-python ip_info.py [ip address]
+python get_ipinfo.py
+
+Username: 1234
+Password: 1234
